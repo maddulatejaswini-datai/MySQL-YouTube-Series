@@ -1,1 +1,1 @@
-# MySQL-YouTube-Series
+# Tejaswini-jMySQL-YouTube-Series
